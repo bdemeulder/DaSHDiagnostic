@@ -1,0 +1,26 @@
+﻿cohort_name,cohortId,atlasId
+[DaSH] Prostate cancer,1780,1780
+[DaSH] Prostate cancer Active surveillance,1781,1781
+[DaSH] Prostate cancer + RP,1782,1782
+[DaSH] Prostate cancer + Radiotherapy,1783,1783
+[DaSH] Prostate cancer + Focal therapy,1784,1784
+[DaSH] Prostate cancer + ADT,1785,1785
+[DaSH] Prostate cancer + ADT + ARPI,1786,1786
+[DaSH] Prostate cancer + ADT + Chemo,1787,1787
+[DaSH] Prostate cancer + ADT + ARPI + Chemo,1794,1794
+[DaSH] RP,1789,1789
+[DaSH] Radiotherapy,1790,1790
+[DaSH] Focal therapy,1791,1791
+[DaSH] ADT,1792,1792
+[DaSH] Chemo,1795,1795
+[DaSH] Metastasis,1797,1797
+[DaSH] Metastasis to bones,1798,1798
+[DaSH] Metastasis to lymph nodes,1799,1799
+[DaSH] Metastasis to other visceral,1800,1800
+[DaSH] Death,1802,1802
+[DaSH] Urinary retention,1803,1803
+[DaSH] Urinary Incontinence,1804,1804
+[DaSH] Urinary tract infections,1805,1805
+[DaSH] Radiation procititis,1807,1807
+[DaSH] Neutropenia,1808,1808
+[DaSH] Hospitalization,1809,1809

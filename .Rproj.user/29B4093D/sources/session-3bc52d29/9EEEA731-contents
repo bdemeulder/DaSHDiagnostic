@@ -1,0 +1,145 @@
+"targetId","target","outcome","databaseId","surv_3yr","ci_lower_3yr","ci_upper_3yr","cumulative_incidence_3yr"
+1780,"[DaSH] Prostate cancer","[DaSH] RP","MarketScan",0.865170321739936,0.8642006223976779,0.866141109159187,0.13482967826006398
+1780,"[DaSH] Prostate cancer","[DaSH] Radiotherapy","MarketScan",0.9978206304487486,0.9976401809335795,0.9980011126029674,0.00217936955125142
+1780,"[DaSH] Prostate cancer","[DaSH] Focal therapy","MarketScan",0.9987713858887685,0.9986610867163624,0.9988816972433929,0.0012286141112315407
+1780,"[DaSH] Prostate cancer","[DaSH] ADT","MarketScan",0.83776544358695,0.8366685414109537,0.8388637838406607,0.16223455641304996
+1780,"[DaSH] Prostate cancer","[DaSH] Chemo","MarketScan",0.8331828418720582,0.8320436733370762,0.8343235700666982,0.16681715812794184
+1780,"[DaSH] Prostate cancer","[DaSH] Metastasis","MarketScan",0.9243593628947017,0.9235051630846062,0.9252143528003427,0.07564063710529834
+1780,"[DaSH] Prostate cancer","[DaSH] Metastasis to bones","MarketScan",0.9495577967666986,0.9488699212269257,0.9502461709762551,0.0504422032333014
+1780,"[DaSH] Prostate cancer","[DaSH] Metastasis to lymph nodes","MarketScan",0.9965023313408314,0.9963030379997906,0.9967016645470882,0.0034976686591685624
+1780,"[DaSH] Prostate cancer","[DaSH] Metastasis to other visceral","MarketScan",0.9790746712500554,0.9785946181740109,0.9795549598178465,0.02092532874994457
+1780,"[DaSH] Prostate cancer","[DaSH] Death","MarketScan",1,1,1,0
+1780,"[DaSH] Prostate cancer","[DaSH] Urinary retention","MarketScan",0.8910523928245533,0.89001970635993,0.8920862775113357,0.10894760717544671
+1780,"[DaSH] Prostate cancer","[DaSH] Urinary Incontinence","MarketScan",0.8087460978817601,0.807466790560443,0.8100274320693726,0.1912539021182399
+1780,"[DaSH] Prostate cancer","[DaSH] Urinary tract infections","MarketScan",0.8199536625256767,0.8186497159357364,0.8212596860438517,0.1800463374743233
+1780,"[DaSH] Prostate cancer","[DaSH] Radiation procititis","MarketScan",1,1,1,0
+1780,"[DaSH] Prostate cancer","[DaSH] Neutropenia","MarketScan",1,1,1,0
+1780,"[DaSH] Prostate cancer","[DaSH] Hospitalization","MarketScan",0.5494360337976931,0.5477284277778738,0.551148963474586,0.4505639662023069
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] RP","MarketScan",0.9285433713984715,0.9276435298984927,0.9294440857711639,0.07145662860152846
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Radiotherapy","MarketScan",0.9993402933763454,0.9992252307513692,0.9994553692509949,6.597066236545546e-4
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Focal therapy","MarketScan",0.9990279073685998,0.998909736602846,0.9991460921139249,9.720926314001899e-4
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] ADT","MarketScan",0.931548852576984,0.9305798101100543,0.9325189041387733,0.06845114742301595
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Chemo","MarketScan",0.9195251812621399,0.9184665238606766,0.9205850589100297,0.08047481873786011
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Metastasis","MarketScan",0.9547462788399907,0.9539353030929782,0.9555579440275346,0.04525372116000925
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Metastasis to bones","MarketScan",0.97407490382387385,0.9734661315005372,0.9746840568525372,0.02592509617612615
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Metastasis to lymph nodes","MarketScan",0.9980343329415761,0.9978492910878335,0.9982194091096064,0.0019656670584239366
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Metastasis to other visceral","MarketScan",0.9852577893866931,0.9847761855309629,0.9857396287703302,0.014742210613306939
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Death","MarketScan",1,1,1,0
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Urinary retention","MarketScan",0.90283113882887,0.9016858176908532,0.903977914753558,0.09716886117113
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Urinary Incontinence","MarketScan",0.8275932693212376,0.8261730654943543,0.82901591449969,0.17240673067876244
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Urinary tract infections","MarketScan",0.8322355824938285,0.8307745165288011,0.8336992180053594,0.16776441750617155
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Radiation procititis","MarketScan",1,1,1,0
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Neutropenia","MarketScan",1,1,1,0
+1781,"[DaSH] Prostate cancer Active surveillance","[DaSH] Hospitalization","MarketScan",0.6026446491114337,0.6006950818981724,0.6046005436818408,0.39735535088856633
+1782,"[DaSH] Prostate cancer + RP","[DaSH] RP","MarketScan",0,,,1
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Radiotherapy","MarketScan",0.999177611266858,0.9987657886840255,0.9995896036571084,8.223887331419988e-4
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Focal therapy","MarketScan",0.9999520533167119,0.999885607625732,1,4.794668328811369e-5
+1782,"[DaSH] Prostate cancer + RP","[DaSH] ADT","MarketScan",0.8553260354104624,0.8512699362064969,0.8594014609644522,0.14467396458953763
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Chemo","MarketScan",0.8580809349482634,0.8540015232570407,0.8621798332554854,0.14191906505173657
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Metastasis","MarketScan",0.9341310911820918,0.9313677073617991,0.9369026740091548,0.06586890881790819
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Metastasis to bones","MarketScan",0.9773655123038703,0.9755714869116427,0.9791628368157944,0.022634487696129746
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Metastasis to lymph nodes","MarketScan",0.9967623458715128,0.9960827919150372,0.9974423634376235,0.0032376541284871996
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Metastasis to other visceral","MarketScan",0.9733595550888922,0.9716399842562727,0.9750821691514078,0.02664044491110784
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Death","MarketScan",1,1,1,0
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Urinary retention","MarketScan",0.9037058983861739,0.9005705672915494,0.9068521451174292,0.09629410161382612
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Urinary Incontinence","MarketScan",0.5298410128594796,0.5243093670350322,0.5354310194675616,0.4701589871405204
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Urinary tract infections","MarketScan",0.8019416114956578,0.7975365624710443,0.8063709910122165,0.1980583885043422
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Radiation procititis","MarketScan",1,1,1,0
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Neutropenia","MarketScan",1,1,1,0
+1782,"[DaSH] Prostate cancer + RP","[DaSH] Hospitalization","MarketScan",0.12281158107992997,0.11936784924390044,0.12635466369620388,0.87718841892007
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] RP","MarketScan",1,1,1,0
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Radiotherapy","MarketScan",0,,,1
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Focal therapy","MarketScan",1,1,1,0
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] ADT","MarketScan",0.11022306272627183,0.050727029251777515,0.23950000100457156,0.8897769372737282
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Chemo","MarketScan",0.0878385222083852,0.03048856384623764,0.2530655764130098,0.9121614777916148
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Metastasis","MarketScan",0,,,1
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Metastasis to bones","MarketScan",0,,,1
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Metastasis to lymph nodes","MarketScan",0.9863013698630136,0.9599942817485705,1,0.013698630136986356
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Metastasis to other visceral","MarketScan",0.87671232876712335,0.804447139896737,0.9554692524743605,0.12328767123287665
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Death","MarketScan",1,1,1,0
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Urinary retention","MarketScan",0.6074809083122128,0.40788723812898015,0.9047428295541259,0.3925190916877872
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Urinary Incontinence","MarketScan",0.6696784611835528,0.3763540425091558,1,0.3303215388164472
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Urinary tract infections","MarketScan",0.7202703724844065,0.595533963597269,0.8711332034618567,0.2797296275155935
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Radiation procititis","MarketScan",1,1,1,0
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Neutropenia","MarketScan",1,1,1,0
+1783,"[DaSH] Prostate cancer + Radiotherapy","[DaSH] Hospitalization","MarketScan",0.049083591493988804,0.008099966846807777,0.29743318701338195,0.9509164085060112
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] RP","MarketScan",0.9837763311772576,0.9655915353455687,1,0.0162236688227424
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Radiotherapy","MarketScan",1,1,1,0
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Focal therapy","MarketScan",0,,,1
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] ADT","MarketScan",0.7661779505130719,0.7072886545726083,0.8299704060814235,0.23382204948692809
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Chemo","MarketScan",0.7590126167507238,0.6962401619981642,0.8274445856921139,0.24098738324927615
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Metastasis","MarketScan",0.9290508500808775,0.8831380688937639,0.9773505552955968,0.07094914991912249
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Metastasis to bones","MarketScan",0.9606523686887269,0.9261830944489652,0.9964044679700349,0.03934763131127306
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Metastasis to lymph nodes","MarketScan",1,1,1,0
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Metastasis to other visceral","MarketScan",0.9683354117208145,0.9363095812243776,1,0.0316645882791855
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Death","MarketScan",1,1,1,0
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Urinary retention","MarketScan",0.556123875025307,0.48549897649522294,0.6370224847965389,0.443876124974693
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Urinary Incontinence","MarketScan",0.7848636384497543,0.7181931259713296,0.8577232344398377,0.21513636155024574
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Urinary tract infections","MarketScan",0.6279372742920243,0.5537745532569568,0.7120320320358517,0.3720627257079757
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Radiation procititis","MarketScan",1,1,1,0
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Neutropenia","MarketScan",1,1,1,0
+1784,"[DaSH] Prostate cancer + Focal therapy","[DaSH] Hospitalization","MarketScan",0.40826505633624477,0.32976513115463374,0.5054517305745015,0.5917349436637552
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] RP","MarketScan",0.9671046676630125,0.9655117536520648,0.9687002096844808,0.03289533233698749
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Radiotherapy","MarketScan",0.9831716880596083,0.9815251017920502,0.9848210366063292,0.016828311940391694
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Focal therapy","MarketScan",0.9987293157656799,0.9983904803527438,0.999068266173139,0.0012706842343200853
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] ADT","MarketScan",0,,,1
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Chemo","MarketScan",0.06244559118233956,0.06008764312668165,0.06489606939467976,0.9375544088176604
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Metastasis","MarketScan",0.6709944081917839,0.6662580222916905,0.6757644647579617,0.3290055918082161
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Metastasis to bones","MarketScan",0.7287199747767171,0.7243416953910783,0.7331247186479719,0.2712800252232829
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Metastasis to lymph nodes","MarketScan",0.9840904028151971,0.9828433596266418,0.9853390282667843,0.015909597184802893
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Metastasis to other visceral","MarketScan",0.933370822099607,0.9307447561844195,0.936004297373961,0.06662917790039302
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Death","MarketScan",1,1,1,0
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Urinary retention","MarketScan",0.8123336252170824,0.8081109230731433,0.8165783926652852,0.1876663747829176
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Urinary Incontinence","MarketScan",0.8356794820768267,0.8316312272665742,0.8397474431781268,0.16432051792317326
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Urinary tract infections","MarketScan",0.7485450667918776,0.7437044908026589,0.753417148810974,0.2514549332081224
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Radiation procititis","MarketScan",1,1,1,0
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Neutropenia","MarketScan",1,1,1,0
+1785,"[DaSH] Prostate cancer + ADT","[DaSH] Hospitalization","MarketScan",0.45584666198374185,0.45020735056525146,0.4615566115942448,0.5441533380162582
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] RP","MarketScan",0.9846003993875304,0.9805662766952604,0.9886511187610071,0.015399600612469588
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Radiotherapy","MarketScan",0.912787236120353,0.8957560920076825,0.9301421959149647,0.08721276387964705
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Focal therapy","MarketScan",1,1,1,0
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] ADT","MarketScan",0,,,1
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Chemo","MarketScan",0.03620329439297333,0.02650234353636494,0.04945519339094897,0.9637967056070267
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Metastasis","MarketScan",0.15657090236475105,0.1407696858354379,0.1741457851654951,0.843429097635249
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Metastasis to bones","MarketScan",0.25864867301152783,0.24157432301507953,0.276929829361245,0.7413513269884722
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Metastasis to lymph nodes","MarketScan",0.9275250953479708,0.9181470536833352,0.9369989252255194,0.07247490465202922
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Metastasis to other visceral","MarketScan",0.8726492572787137,0.8609295428093361,0.8845285105958297,0.12735074272128633
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Death","MarketScan",1,1,1,0
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Urinary retention","MarketScan",0.7422029648905292,0.7222172429192096,0.7627417463278625,0.25779703510947083
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Urinary Incontinence","MarketScan",0.8559868087685677,0.8402543375015449,0.8720138463842791,0.1440131912314323
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Urinary tract infections","MarketScan",0.6837363891709175,0.6608787308831807,0.70738461994644,0.3162636108290825
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Radiation procititis","MarketScan",1,1,1,0
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Neutropenia","MarketScan",1,1,1,0
+1786,"[DaSH] Prostate cancer + ADT + ARPI","[DaSH] Hospitalization","MarketScan",0.33490212654031726,0.31248330583533634,0.3589293644388456,0.6650978734596827
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] RP","MarketScan",0.9677276168074663,0.9660469815373611,0.9694111758845552,0.03227238319253367
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Radiotherapy","MarketScan",0.9822705761185406,0.9804711985814388,0.9840732559041181,0.017729423881459372
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Focal therapy","MarketScan",0.9987327694506545,0.9983682218687537,0.9990974501447042,0.0012672305493455216
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] ADT","MarketScan",0,,,1
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Chemo","MarketScan",0,,,1
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Metastasis","MarketScan",0.6646542835782122,0.6596038389299037,0.66974339839434,0.3353457164217878
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Metastasis to bones","MarketScan",0.7226739636854975,0.7179951879737568,0.7273832283789576,0.2773260363145025
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Metastasis to lymph nodes","MarketScan",0.983702400994807,0.9823616155650599,0.9850450164080756,0.01629759900519301
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Metastasis to other visceral","MarketScan",0.9323271559828016,0.9295276320417906,0.9351351114475522,0.06767284401719842
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Death","MarketScan",1,1,1,0
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Urinary retention","MarketScan",0.8102807254976429,0.8057687121418352,0.8148180044963281,0.18971927450235715
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Urinary Incontinence","MarketScan",0.8354275944637358,0.8311178687952964,0.8397596680277442,0.16457240553626418
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Urinary tract infections","MarketScan",0.7456547528670944,0.740485309737123,0.7508602846836644,0.2543452471329056
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Radiation procititis","MarketScan",1,1,1,0
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Neutropenia","MarketScan",1,1,1,0
+1787,"[DaSH] Prostate cancer + ADT + Chemo","[DaSH] Hospitalization","MarketScan",0.4534776196888488,0.4475027655738688,0.459532247348132,0.5465223803111512
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] RP","MarketScan",0.9853890836029601,0.9812078868547975,0.9895880975807648,0.01461091639703993
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Radiotherapy","MarketScan",0.9124661151733784,0.8943383101895338,0.9309613619963886,0.08753388482662161
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Focal therapy","MarketScan",1,1,1,0
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] ADT","MarketScan",0,,,1
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Chemo","MarketScan",0,,,1
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Metastasis","MarketScan",0.15060762701469804,0.1344832318533919,0.16866531984988362,0.8493923729853019
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Metastasis to bones","MarketScan",0.24885884074064946,0.23105853738747895,0.26803044507688445,0.7511411592593505
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Metastasis to lymph nodes","MarketScan",0.9261073661107954,0.9160290512176639,0.9362965644207247,0.07389263388920464
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Metastasis to other visceral","MarketScan",0.8714164671760599,0.8590302764255331,0.8839812520058861,0.12858353282394008
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Death","MarketScan",1,1,1,0
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Urinary retention","MarketScan",0.742683614440923,0.7216468383100159,0.7643336350655195,0.257316385559077
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Urinary Incontinence","MarketScan",0.8567021446957085,0.8401506110794463,0.8735797546861797,0.1432978553042915
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Urinary tract infections","MarketScan",0.6805889163156226,0.6564335753956603,0.705633121725199,0.31941108368437743
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Radiation procititis","MarketScan",1,1,1,0
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Neutropenia","MarketScan",1,1,1,0
+1794,"[DaSH] Prostate cancer + ADT + ARPI + Chemo","[DaSH] Hospitalization","MarketScan",0.33435058113072524,0.31090978673202657,0.3595586754520721,0.6656494188692748

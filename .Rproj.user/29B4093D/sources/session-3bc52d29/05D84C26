@@ -1,0 +1,26 @@
+{
+    "id": "05D84C26",
+    "path": "~/DaSHDiagnostic/extras/codeToRun.R",
+    "project_path": "extras/codeToRun.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1788275788991.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "62,0",
+        "scrollLine": "45"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1788353282,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1788353282484,
+    "read_only": false,
+    "read_only_alternatives": []
+}

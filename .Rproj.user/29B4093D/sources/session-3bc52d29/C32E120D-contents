@@ -1,0 +1,44 @@
+covariate_id,covariate_name,analysis_id,concept_id,value_as_concept_id
+1361291404,drug_era group: darolutamide,404,1361291,NA
+1315942404,drug_era group: docetaxel,404,1315942,NA
+1343039404,drug_era group: triptorelin,404,1343039,NA
+902729404,drug_era group: Paclitaxel protein-bound,404,902729,NA
+40222431404,drug_era group: cabazitaxel,404,40222431,NA
+963987404,drug_era group: apalutamide,404,963987,NA
+1366773404,drug_era group: histrelin,404,1366773,NA
+40239056404,drug_era group: abiraterone,404,40239056,NA
+1378382404,drug_era group: paclitaxel,404,1378382,NA
+1351541404,drug_era group: leuprolide,404,1351541,NA
+42900250404,drug_era group: enzalutamide,404,42900250,NA
+19058410404,drug_era group: degarelix,404,19058410,NA
+1366310404,drug_era group: goserelin,404,1366310,NA
+739471404,drug_era group: relugolix,404,739471,NA
+40222431402,drug_era: cabazitaxel,402,40222431,NA
+963987402,drug_era: apalutamide,402,963987,NA
+1366773402,drug_era: histrelin,402,1366773,NA
+1315942402,drug_era: docetaxel,402,1315942,NA
+1343039402,drug_era: triptorelin,402,1343039,NA
+40239056402,drug_era: abiraterone,402,40239056,NA
+1361291402,drug_era: darolutamide,402,1361291,NA
+1366310402,drug_era: goserelin,402,1366310,NA
+902729402,drug_era: Paclitaxel protein-bound,402,902729,NA
+739471402,drug_era: relugolix,402,739471,NA
+19058410402,drug_era: degarelix,402,19058410,NA
+1378382402,drug_era: paclitaxel,402,1378382,NA
+1351541402,drug_era: leuprolide,402,1351541,NA
+42900250402,drug_era: enzalutamide,402,42900250,NA
+963987301,drug_exposure: apalutamide,301,963987,NA
+40239056401,drug_era: abiraterone,401,40239056,NA
+40222431401,drug_era: cabazitaxel,401,40222431,NA
+963987401,drug_era: apalutamide,401,963987,NA
+1343039401,drug_era: triptorelin,401,1343039,NA
+1351541401,drug_era: leuprolide,401,1351541,NA
+42900250401,drug_era: enzalutamide,401,42900250,NA
+739471401,drug_era: relugolix,401,739471,NA
+1315942401,drug_era: docetaxel,401,1315942,NA
+1366310401,drug_era: goserelin,401,1366310,NA
+19058410401,drug_era: degarelix,401,19058410,NA
+1378382401,drug_era: paclitaxel,401,1378382,NA
+1361291401,drug_era: darolutamide,401,1361291,NA
+902729401,drug_era: Paclitaxel protein-bound,401,902729,NA
+1366773401,drug_era: histrelin,401,1366773,NA
