@@ -1,6 +1,6 @@
 # Copyright 2026 Observational Health Data Sciences and Informatics
 #
-# This file is part of PioneerTriptorelin
+# This file is part of DaSHDiagnostic
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,49 +14,34 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-#' Run cohort diagnostics for all study cohorts
+#' Run baseline cohort diagnostics for the study's target cohorts
 #'
-#' Executes \code{CohortDiagnostics::executeDiagnostics()} across every cohort
-#' used in the study: the main triptorelin cohort, all combination treatment
-#' cohorts, and all outcome cohorts. Running all cohorts together allows
-#' side-by-side comparison in the Diagnostics Explorer.
+#' Runs \code{CohortDiagnostics::executeDiagnostics()} across the target cohorts listed in
+#' \code{inst/settings/IRsettings.csv} (temporal characterization, index-event breakdown,
+#' inclusion statistics, visit context, cohort relationship), then a second pass restricted to a
+#' curated set of drug concepts. Results are exported to
+#' \code{outputFolder/baselineCharacteristics} (and \code{..._drug_exposure}) and can be viewed
+#' with \code{CohortDiagnostics::launchDiagnosticsExplorer()}.
 #'
-#' Modules run:
-#' \itemize{
-#'   \item Temporal cohort characterization (demographics, comorbidities, drugs)
-#'   \item Index event breakdown (formulation / dosing interval)
-#'   \item Inclusion statistics
-#'   \item Visit context
-#'   \item Cohort relationship
-#' }
+#' @param connectionDetails        DatabaseConnector connection details object.
+#' @param cdmDatabaseSchema        Schema containing the OMOP CDM tables (read-only).
+#' @param vocabularyDatabaseSchema Schema containing the vocabulary tables.
+#' @param cohortDatabaseSchema     Schema where cohort tables are written.
+#' @param cohortTable              Name of the cohort table.
+#' @param databaseId               Short site identifier used to label outputs.
+#' @param minCellCount             Minimum cell count for suppression. Default 5.
+#' @param outputFolder             Path where result files are written.
 #'
-#' Results are exported as a zip file to
-#' \code{outputFolder/baselineCharacteristics} and can be viewed with
-#' \code{CohortDiagnostics::launchDiagnosticsExplorer()}.
-#'
-#' @param connectionDetails               DatabaseConnector connection details object.
-#' @param cdmDatabaseSchema               Schema containing the OMOP CDM tables (read-only).
-#' @param vocabularyDatabaseSchema        Schema containing the vocabulary tables.
-#' @param cohortDatabaseSchema            Schema where cohort tables are written.
-#' @param cohortTable                     Name of the cohort table.
-#' @param targetCohortId                  Cohort definition ID of the main triptorelin cohort.
-#' @param combinationTreatmentCohortIds   Integer vector of combination treatment cohort IDs.
-#'   \code{NA} entries are silently skipped.
-#' @param outcomeCohortIds                Integer vector of outcome cohort IDs.
-#'   \code{NA} entries are silently skipped.
-#' @param databaseId                      Short site identifier used to label outputs.
-#' @param minCellCount                    Minimum cell count for suppression. Default 5.
-#' @param outputFolder                    Path where result files will be written.
-#'
+#' @return Invisibly \code{NULL}; called for its side effects.
 #' @export
+
 runBaselineCharacteristics <- function(connectionDetails,
                                        cdmDatabaseSchema,
-                                       vocabularyDatabaseSchema        = cdmDatabaseSchema,
+                                       vocabularyDatabaseSchema = cdmDatabaseSchema,
                                        cohortDatabaseSchema,
                                        cohortTable,
-                                       targetCohortId,
                                        databaseId,
-                                       minCellCount                    = 5,
+                                       minCellCount = 5,
                                        outputFolder) {
 
   exportFolder <- file.path(outputFolder, "baselineCharacteristics")
@@ -67,9 +52,10 @@ runBaselineCharacteristics <- function(connectionDetails,
   # --------------------------------------------------------------------------
   # Collect all unique cohort IDs used in the study
   # --------------------------------------------------------------------------
-  targetCohortId <- read.csv(system.file("settings", "IRsettings.csv", package = "DaSHDiagnostic"))
-  targetCohortId <- unique(targetCohortId$target_id)
-  allIds <- unique(c(targetCohortId))
+  targetIds <- unique(
+    read.csv(system.file("settings", "IRsettings.csv", package = "DaSHDiagnostic"))$target_id
+  )
+  allIds <- unique(targetIds)
 
   # --------------------------------------------------------------------------
   # Build cohort definition set for all study cohorts

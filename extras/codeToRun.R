@@ -42,7 +42,8 @@ options(andromedaTempFolder = file.path(outputFolder, "andromedaTemp"))
 runCreateCohorts = TRUE
 runBaselineCharacteristics = TRUE
 runIRandTTEAnalysis = TRUE
-incremental = FALSE
+incremental = TRUE
+includeCohortStats = TRUE
 
 
 ## -- Launch pipeline --- ------------------------------------------------------
@@ -58,5 +59,6 @@ execute(
     minCellCount = 5,
     runCreateCohorts = runCreateCohorts,
     runBaselineCharacteristics = runBaselineCharacteristics,
-    runIRandTTEAnalysis = runIRandTTEAnalysis
+    runIRandTTEAnalysis = runIRandTTEAnalysis,
+    databaseId = databaseId
 )

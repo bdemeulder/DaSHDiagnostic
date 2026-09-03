@@ -1,6 +1,6 @@
 # Copyright 2026 Observational Health Data Sciences and Informatics
 #
-# This file is part of PioneerTriptorelin
+# This file is part of DaSHDiagnostic
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,10 +19,6 @@
 #' Generates all study cohorts using the \pkg{CohortGenerator} package.
 #' Cohort definitions are read from \code{inst/settings/CohortsToCreate.csv},
 #' \code{inst/cohorts/} (JSON), and \code{inst/sql/sql_server/} (SQL).
-#'
-#' This function is intentionally separate from \code{createCohorts.R}, which
-#' is managed by \code{ROhdsiWebApi::insertCohortDefinitionSetInPackage} and
-#' will be overwritten whenever cohort definitions are refreshed from Atlas.
 #'
 #' When \code{includeCohortStats = TRUE} the cohort SQL is rebuilt from the
 #' Circe JSON expressions using
